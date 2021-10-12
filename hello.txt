@@ -1,3 +1,7 @@
 hello guanhaoshuai! hello world!
+<<<<<<< HEAD
 ni shi zhende shuai shuaishuaiqiqi
 000000000000 guanjiahezhenshuai  
+ni shi zhende shuai a a a a
+000000000000 guanjiahezhenshuai  hot fix  
+
